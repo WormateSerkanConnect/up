@@ -1130,7 +1130,7 @@ window.addEventListener("load", function () {
       _0x18e8f6.fb.ub = 0x1f4;
       _0x18e8f6.N = new _0x26f19e(_0x18e8f6.fb);
       _0x18e8f6.a = function () {
-        null.vb((window.anApp = _0x47002d).s.H.wb);
+        vb((window.anApp = _0x47002d).s.H.wb);
         setInterval(function () {
           _0x18e8f6.S(function (_0x30bb3c, _0x1d523c) {
             _0x18e8f6.xb(_0x30bb3c, _0x1d523c);
